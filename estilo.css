@@ -30,11 +30,10 @@ body{
 }
 .cabecalho-titulo{
    
-position: absolute;
-width: 758px;
-height: 132px;
-left: 357px;
-top: 48px;
+    position: absolute;
+    width: 758px;
+    left: 357px;
+    top: 20px;
     
     font-family: 'Italianno';
     font-style: normal;
