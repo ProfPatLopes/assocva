@@ -29,17 +29,18 @@ body{
     
 }
 .cabecalho-titulo{
-    position: absolute;
-    width: 740px;
-    height: 68px;
-    left: 379px;
-    top: 26px;
+   
+position: absolute;
+width: 758px;
+height: 132px;
+left: 357px;
+top: 48px;
     
     font-family: 'Italianno';
     font-style: normal;
     font-weight: 400;
-    font-size: 64px;
-    line-height: 80px;
+    font-size: 32px;
+    line-height: 37px;
     text-align: center;
     
     color: #A10077;
