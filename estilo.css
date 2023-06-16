@@ -1,24 +1,24 @@
 html{
    
-position: relative;
-width: 1440px;
-height: 1024px;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
 
-background: #EBD6D3;
+    background: #EBD6D3;
 }
 body{
     
-background: #EBD6D3;
+    background: #EBD6D3;
 }
 
 .cabecalho{
     position: absolute;
-width: 1440px;
-height: 188px;
-left: 0px;
-top: 0px;
+    width: 1440px;
+    height: 188px;
+    left: 0px;
+    top: 0px;
 
-background: linear-gradient(180deg, #371CC2 0%, #EBD6D3 100%);
+    background: linear-gradient(180deg, #371CC2 0%, #EBD6D3 100%);
 }
 .cabecalho-logo{
     position: absolute;
