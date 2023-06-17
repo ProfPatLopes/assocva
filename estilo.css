@@ -18,7 +18,8 @@ body{
     left: 0px;
     top: 0px;
 
-    background: linear-gradient(180deg, #371CC2 0%, #EBD6D3 100%);
+    background: linear-gradient(180deg, #371CC2 0%, rgba(161, 0, 119, 0.66) 51.04%, #EBD6D3 100%);
+    
 }
 .cabecalho-logo{
     position: absolute;
@@ -46,22 +47,7 @@ body{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
-.cabecalho-subtitulo{
-    position: absolute;
-    width: 758px;
-    height: 56px;
-    left: 361px;
-    top: 101px;
-    
-    font-family: 'Arimo';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    text-align: center;
-    
-    color: #000000;
-}
+
 .menu{
     position: absolute;
     width: 1440px;
@@ -76,12 +62,12 @@ body{
     width: 93px;
     height: 26px;
     left: 108px;
-    top: 188px;
+    top: -25px;
     
     font-family: 'Arimo';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 27px;
     /* identical to box height */
     
