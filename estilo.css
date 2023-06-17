@@ -71,10 +71,10 @@ body{
     
     background: #371CC2;
 }
-.menu-itens{
+.menu-item-lista{
     position: absolute;
     width: 93px;
-    height: 28px;
+    height: 26px;
     left: 108px;
     top: 188px;
     
@@ -82,7 +82,7 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 28px;
+    line-height: 27px;
     /* identical to box height */
     
     text-align: center;
@@ -90,8 +90,6 @@ body{
     color: #FFFFFF;
     display: inline-block;
     
-    padding: 4px;
-    margin: 0 16px;
 }
 .lateral{
 
