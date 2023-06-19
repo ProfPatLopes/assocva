@@ -59,22 +59,25 @@ body{
 }
 .menu-item-lista{
     position: absolute;
-    width: 120px;
+   
     height: 26px;
-    left: 108px;
+   
     top: -25px;
     
     font-family: 'Arimo';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 27px;
+   
     /* identical to box height */
     
-    text-align: center;
+   
     
     color: #FFFFFF;
+    
     display: inline-block;
+    padding: 4px;
+    margin: 0 16px;
     
 }
 .lateral{
