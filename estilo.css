@@ -64,15 +64,11 @@ body{
     width: 1440px;
     height: 27px;
     left: 0px;
-    top: 188px;
+    top: -17px;
        
 }
 .menu-item-lista{
-   
     height: 26px;
-   
-    top: -5px;
-    
     font-family: 'Arimo';
     font-style: normal;
     font-weight: 400;
