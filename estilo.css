@@ -56,9 +56,18 @@ body{
     top: 188px;
     
     background: #371CC2;
+
+   
+}
+.menu-item{
+    position: absolute;
+    width: 1440px;
+    height: 27px;
+    left: 0px;
+    top: 188px;
+       
 }
 .menu-item-lista{
-    position: absolute;
    
     height: 26px;
    
@@ -68,16 +77,18 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-   
-    /* identical to box height */
-    
-   
-    
     color: #FFFFFF;
-    
     display: inline-block;
     padding: 4px;
     margin: 0 16px;
+
+
+   
+    font-size: 14px;
+    top: 125px;
+    color: #FFFFFF;
+    height: 23px;
+    
     
 }
 .lateral{
