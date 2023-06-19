@@ -186,6 +186,27 @@ body{
 .sobre-texto{
 
 }
+
+.eventos{
+    padding: 24px 0;
+    position: absolute;
+    width: 1152px;
+    height: 626px;
+    left: 265px;
+    top: 226px;
+   
+}
+
+.eventos-todos{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 384px 384px 384px;
+}
+.eventos-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
 footer{
 
     position: absolute;
